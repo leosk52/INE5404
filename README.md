@@ -1,4 +1,5 @@
 # INE5404
-POO2
 
-Testando
+Repositório de Programação Orientada a Objetos II
+
+Nicolas Fischer
