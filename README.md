@@ -2,4 +2,4 @@
 
 Repositório de Programação Orientada a Objetos II
 
-Nicolas Fischer
+Leonardo Kreuch
